@@ -61,7 +61,7 @@ input, a:hover, button:hover {
 	margin: 0 auto;
 }
 .main_wrap .content h2 {
-	font-family: "LemonMilk";
+	font-family: "LemonMilk" !important;
 	font-size: 42px;
 	text-align: left;
 	color: #790000;
