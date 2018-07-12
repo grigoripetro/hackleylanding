@@ -229,5 +229,5 @@ input, a:hover, button:hover {
 		height: 63px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 }
