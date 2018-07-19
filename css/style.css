@@ -79,6 +79,7 @@ input, a:hover, button:hover {
 }
 .main_wrap .content .btn_area {
 	margin-top: 20px;
+	margin-bottom: 2px;
 }
 .main_wrap .content .btn_area button {
 	width: 435px;
@@ -108,7 +109,7 @@ input, a:hover, button:hover {
 }
 .footer .footer_wrap h4 {
 	font-family: "LemonMilk";
-	font-size: 27px;
+	font-size: 26px;
 	text-align: left;
 	color: #790000;
 	margin-bottom: 7px;
