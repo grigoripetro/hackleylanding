@@ -38,6 +38,7 @@ input, a:hover, button:hover {
 }
 .logo img {
 }
+
 .main_wrap {
 	width: 100%;
 	text-align: center;
@@ -93,6 +94,7 @@ input, a:hover, button:hover {
 .main_wrap .content .btn_area button:hover {
 	opacity: 0.9;
 }
+
 .footer {
 	position: relative;
 	width: 100%;
@@ -142,6 +144,7 @@ input, a:hover, button:hover {
 .footer .footer_right button:hover {
 	opacity: 0.9;
 }
+
 @media (max-width: 1200px) {
 	.main_wrap .content {
 		top: 220px;
